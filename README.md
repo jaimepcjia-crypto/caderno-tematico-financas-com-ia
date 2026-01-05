@@ -29,7 +29,7 @@ Desenvolver um miniguia introdutório de finanças pessoais por meio de:
 - `/outputs` → resumos e guias derivados do notebook  
 - `/metodologia` → descrição da atividade e abordagem adotada  
 
-## 🛠 Ferramentas Utilizadas
+## 🛠 Ferramentas Utilizadas.
 - NotebookLM
 - GitHub
 
